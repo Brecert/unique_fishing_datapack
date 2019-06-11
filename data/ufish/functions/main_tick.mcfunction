@@ -1,0 +1,1 @@
+execute as @e[nbt={Item: {tag: {Tags: ["ufish.fishing.spawn_guardian"]}}}] at @s run function ufish:block/summon_guardian
