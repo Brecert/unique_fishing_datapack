@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "weight": 10,
+          "weight": 5,
           "quality": -2,
           "name": "minecraft:gameplay/fishing/junk"
         },
@@ -27,6 +27,12 @@
         	"weight": 1,
         	"quality": -3,
         	"name": "ufish:gameplay/fishing/bad_spawn"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "weight": 5,
+          "quality": -2,
+          "name": "ufish:gameplay/fishing/junk"
         }
       ]
     }
