@@ -27,4 +27,20 @@ this was added to
 - feels like a vanilla solution to the problem present
 </p></details>
 
+### slime balls
+> slimey
+
+slime balls are now pulls when in swamp biomes
+
+<details><summary>why?</summary><p>
+	
+this was added because
+
+- between hunting slimes manually and creating a slime farm, there's a gap, hopefully this helps reduce the gap
+
+- create a new type of catch that feels new and unique, as the project name suggests
+
+- feels like a vanilla solution to the problem present
+</p></details>
+
 </p></details>
